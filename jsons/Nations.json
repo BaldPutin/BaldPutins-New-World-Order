@@ -1,38 +1,35 @@
 [
 	{
-		"name": "Aliens",
-		"leaderName": "Zyxxyz",
-		"adjective": ["alien"],
-		"startBias": ["Snow"],
-		"preferredVictoryType": "Scientific",
+		"name": "New World Order",
+		"leaderName": "The High Council",
+		"adjective": ["Orderite"],
+		"preferredVictoryType": "Domination",
 		
-		"startIntroPart1": "We come in peace!",
-		"startIntroPart2": "This is an overpowered joke nation just as an example for the mods feature. Set Phasers to Obliterate!!",
+		"startIntroPart1": "The New World Order is a union of multiple powerful secret societies like the Illuminati, the Freemasons, the Jewry, the Lizards and the Rothschilds, and Satan.",
+		"startIntroPart2": "Their only goal is to brainwash everyone with lies like globe earth theory and that santa doesn't exist, and unite the world under their authoritarian rule.",
 		
-		"declaringWar": "Resistance is futile! Prepare to be assimilated!",
-		"attacked": "You want to play? Very funny!",
-		"defeated": "How is it possible that those Apes hurt us? The galactic senate will take care of them.",
-		"introduction": "As superior galactic entities, you are not worthy of our attention.",
+		"declaringWar": "...",
+		"attacked": "Just as planned...",
+		"defeated": "We are not gone, the plan has flourished and we now rule your empire from within.",
+		"introduction": "Are you familiar with the globe earth theory?",
 		
-		"neutralHello": "How are you doing?",
-		"neutralLetsHearIt": ["Go on.","What do you say?","You may begin."],
-		"neutralNo": ["We absolutely refuse.","No!","I refuse."],
-		"neutralYes": ["Very good.","Of course, yes.","That is very good."],
+		"neutralHello": "Greetings.",
+		"neutralLetsHearIt": ["We already know what you are going to say.","This is part of the plan."],
+		"neutralNo": ["We knew that you where going to make this offer, and it's ridiculous.","We cannot accept.","Not part of the plan."],
+		"neutralYes": ["Just as we planned...","Yes... yes...","All according to plan..."],
 
-		"hateHello": "What do you want now?",
-		"hateLetsHearIt": ["Speak!","What do you say?","Go on."],
-		"hateNo": ["That is not possible!","We are not agreeing to that!","I beg your pardon?"],
-		"hateYes": ["That is fine.","That is good enough.","Very well..."],
+		"hateHello": "...",
+		"hateLetsHearIt": ["We already know what you are going to say.","This is part of the plan.","..."],
+		"hateNo": ["We knew that you where going to make this offer, and it's ridiculous.","Not part of the plan."],
+		"hateYes": ["Just as we planned...","Yes... yes...","All according to plan..."],
 		
-		"afterPeace": "Very well, all that fighting was getting boring anyway.",
-		"tradeRequest": "We bestow you the honor of this trade offer.",
+		"afterPeace": ["Yes... yes...","All according to plan..."],
+		"tradeRequest": "Accept.",
 
-		"outerColor": [16,16,16],
-		"innerColor": [255,200,200],
-		"unique": "MANIFEST_DESTINY",
-		"cities": ["The Hive","Q'Throczan","Q'Chovex","Q'Imphet","Q'Omphead","Q'Grecoks","Q'Vrelzieks","Q'Vronens","Q'Aerlae",
-			"Q'Phulnoith","Q'Creved","Q'Xirqen","Q'Gax","Q'Threqals","Q'Bhilmuk","Q'Mazea","Q'Zomirs","Q'Drorkrex","Q'Honkrath",
-			"Q'Zulgra","Q'Vahars","Q'Crindith","Q'Raavraes","Q'Bhoknais","Qho'Qru","Q'Dateatz","Q'Elnad","Q'Izien","Qol'Ell",
-			"Q'Dhihien","Q'Naquiel","Q'Ugneon","Q'Straquks","Q'Nulptr","Q'Ohfahl"]
+		"outerColor": [0,0,0],
+		"innerColor": [250,200,0],
+		"uniqueName": "Brainwashing",
+		"uniques": ["[+50]% strength <in [in cities following our religion] cities> <in [in foreign cities] cities>", "[+100]% of excess hapiness converted to [faith]"],
+		"cities": ["The Pyramid"]
 	}
 ]
