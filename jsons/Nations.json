@@ -29,7 +29,7 @@
 		"outerColor": [0,0,0],
 		"innerColor": [250,200,0],
 		"uniqueName": "Brainwashing",
-		"uniques": ["[+50]% Strength <in cities following our religion> <in [in foreign cities] cities>", "[+100]% of excess happiness converted to [faith]"],
+		"uniques": ["[+50]% Strength <in cities following our religion> <in [in foreign cities] cities>", "[+100]% of excess happiness converted to [Faith]"],
 		"cities": ["The Pyramid"]
 	}
 ]
