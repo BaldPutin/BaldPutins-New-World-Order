@@ -4,6 +4,6 @@
 		"movement": 2,
 		"strength": 8,
 		"cost": 40,
-		"uniques" : ["Ignores Zone of Control", "Invisible to others <when [non-[wounded]]>", "[+50%] production cost <upon entering a new era>", "[+100]% Strength <upon entering a new era>", "[This Unit] gains [1] movement <upon entering a new era>", "Unbuildable"],
+		"uniques" : ["Ignores Zone of Control", "Invisible to others <when [non-[wounded]]>", "[+50]% production cost <upon entering a new era>", "[+100]% Strength <upon entering a new era>", "[This Unit] gains [1] movement <upon entering a new era>", "Unbuildable"],
 	}
 ]
