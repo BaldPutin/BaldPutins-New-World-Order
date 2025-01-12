@@ -5,7 +5,7 @@
 		"uniqueTo": "The New World Order",
 		"cost": 80,
 		"happiness": 3,
-		"faith": 3,
+		"faith": 2,
 		"maintenance": 1,
 		"requiredTech": "Writing"
 	},
