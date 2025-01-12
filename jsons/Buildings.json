@@ -8,7 +8,7 @@
 		"faith": 2,
 		"maintenance": 1,
 		"requiredTech": "Writing"
-		"uniques": ["[+3 happiness, +4 faith] <upon discovering [telecommunications] technology>"],
+		"uniques": ["[+3 happiness, +4 faith] <upon discovering [Radio] technology>"],
 	},
 	{
 		"name": "National Bureau of Brainwashing",
@@ -18,7 +18,7 @@
 		"hurryCostModifier": 160,
 		"happiness": 6,
 		"faith": 6,
-		"uniques": ["[3] free missionary units appear", "[+6 happiness, +6 faith] <upon discovering [telecommunications] technology>"],
+		"uniques": ["[3] free missionary units appear", "[+6 happiness, +6 faith] <upon discovering [Radio] technology>"],
 		"requiredTech": "Theology"
 	}
 ]
