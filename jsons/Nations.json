@@ -29,7 +29,7 @@
 
 		"outerColor": [0,0,0],
 		"innerColor": [250,200,0],
-		"uniqueName": "Brainwashing",
+		"uniqueName": "Novus Ordo Mundi",
 		"uniques": ["[+50]% Strength <in cities following our religion> <in [in foreign cities] cities>", "[+3 Happiness] [in your cities] <in cities following our religion>", "[-3 Happiness] [in foreign cities] <in cities following our religion>", "\"Borrows\" city names from other civilizations in the game"],
 		"cities": ["The Pyramid"],
 	}
