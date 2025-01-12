@@ -4,28 +4,28 @@ size: 2048, 2048
 format: RGBA8888
 filter: MipMapLinearLinear, MipMapLinearLinear
 repeat: none
-UnitIcons/Legendary Healer
+BuildingIcons/National Bureau of Brainwashing
   rotate: false
   xy: 4, 712
   size: 700, 700
   orig: 700, 700
   offset: 0, 0
   index: -1
-UnitIcons/Ice Wizard
+UnitIcons/Reptoid
   rotate: false
   xy: 712, 712
   size: 700, 700
   orig: 700, 700
   offset: 0, 0
   index: -1
-NationIcons/Hyperborea
+NationIcons/The New World Order
   rotate: false
   xy: 712, 4
   size: 700, 700
   orig: 700, 700
   offset: 0, 0
   index: -1
-BuildingIcons/Apollo's Spherical Temple
+BuildingIcons/Brainwashing Center
   rotate: false
   xy: 4, 4
   size: 700, 700
