@@ -1,15 +1,4 @@
 [
-	{
-		"name": "Brainwasher",
-		"replaces": "Missionary",
-		"uniqueTo": "The New World Order",
-		"unitType": "Civilian",
-		"uniques": [
-            "Can Spread Religion <for [5] movement> <[2] times> <after which this unit is consumed>",
-            "May enter foreign tiles without open borders",
-			"Can be purchased with [Faith] [in all cities in which the majority religion is a major religion]",
-			"[-1] Sight", "Unbuildable", "Religious Unit", "Only available <when religion is enabled>"],
-		"movement": 5,
-		"religiousStrength": 2000
+	{	
 	}
 ]
