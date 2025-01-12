@@ -6,6 +6,6 @@
 		"movement": 2,
 		"strength": 8,
 		"cost": 40,
-		"uniques" : ["Ignores Zone of Control", "Invisible to others <when [non-[wounded]]>", "[+50]% production cost <upon entering a new era>", "[+100]% Strength <upon entering a new era>", "[This Unit] gains [1] movement <upon entering a new era>", "Reveal up to [1] [City center] within a [1000] tile radius <[3] times> <for [all] movement>", "Comment [(Can connect with secret societies across the disc)]"],
+		"uniques" : ["Ignores Zone of Control", "Invisible to others <when [non-[wounded]]>", "[+50]% production cost <upon entering a new era>", "[+100]% Strength <upon entering a new era>", "[This Unit] gains [1] movement <upon entering a new era>", "Reveal up to [3] [City center] within a [1000] tile radius <with [50]% chance> <[3] times> <for [2] movement>", "Comment [Can connect with secret societies across the disc]"],
 	}
 ]
