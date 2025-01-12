@@ -1,6 +1,9 @@
 [
 	{	
-		"name": "Lizard Infiltrator"
-		"requiredTech": "
+		"name": "Lizardman",
+		"movement": 2,
+		"strength": 8,
+		"cost": 40,
+		"uniques" : ["Ignores Zone of Control", "[+50%] production cost <upon entering a new era>", "[+100]% Strength <upon entering a new era>", "[This Unit] gains [1] movement <upon entering a new era>", "Unbuildable"],
 	}
 ]
