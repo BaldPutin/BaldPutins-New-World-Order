@@ -1,6 +1,7 @@
 [
 	{	
 		"name": "Reptoid",
+		"unitType": "Sword",
 		"movement": 2,
 		"strength": 8,
 		"cost": 40,
