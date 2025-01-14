@@ -1,1 +1,31 @@
-
+[
+  {
+      "name": "The Council",
+      "culture": 5,
+      "faith": 10,
+      "food": 6,
+      "gold": 9,
+      "happiness": 9,
+      "production": 7,
+      "science": 7,
+      "military": 10,
+      "aggressive": 5,
+      "declareWar": 9,
+      "commerce": 6,
+      "diplomacy": 7,
+      "loyal": 1,
+      "expansion": 8,
+      "priorities": {
+          "Tradition": 6,
+          "Liberty": 9,
+          "Honor": 10,
+          "Commerce": 3,
+          "Patronage": 5,
+          "Piety": 10,
+          "Rationalism": 7,
+          "Freedom": 5,
+          "Autocracy": 10,
+          "Order": 10,
+      }
+  }
+]
