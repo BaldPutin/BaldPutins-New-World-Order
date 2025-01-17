@@ -18,7 +18,7 @@
 		"hurryCostModifier": 160,
 		"happiness": 6,
 		"faith": 6,
-		"uniques": ["Only available <if [Colosseum] is constructed in all [non-[Puppeted]] cities>", "Cost increases by [30] per owned city", "[3] free [Missionary] units appear", "[+6 Happiness, +6 Faith] <upon discovering [Radio] technology>"],
+		"uniques": ["Only available <if [Local Brainwashing Council] is constructed in all [non-[Puppeted]] cities>", "Cost increases by [30] per owned city", "[3] free [Missionary] units appear", "[+6 Happiness, +6 Faith] <upon discovering [Radio] technology>"],
 		"requiredTech": "Theology",
 		"isNationalWonder": true
 	}
